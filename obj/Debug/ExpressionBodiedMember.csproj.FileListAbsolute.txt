@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\LocalFunction csharp\ExpressionBodiedMember\bin\Debug\ExpressionBodiedMember.exe.config
+C:\Users\lenovo\source\repos\LocalFunction csharp\ExpressionBodiedMember\bin\Debug\ExpressionBodiedMember.exe
+C:\Users\lenovo\source\repos\LocalFunction csharp\ExpressionBodiedMember\bin\Debug\ExpressionBodiedMember.pdb
+C:\Users\lenovo\source\repos\LocalFunction csharp\ExpressionBodiedMember\bin\Debug\ClassLibrary1.dll
+C:\Users\lenovo\source\repos\LocalFunction csharp\ExpressionBodiedMember\bin\Debug\ClassLibrary1.pdb
+C:\Users\lenovo\source\repos\LocalFunction csharp\ExpressionBodiedMember\obj\Debug\ExpressionBodiedMember.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\LocalFunction csharp\ExpressionBodiedMember\obj\Debug\ExpressionBodiedMember.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\LocalFunction csharp\ExpressionBodiedMember\obj\Debug\ExpressionBodiedMember.csproj.CopyComplete
+C:\Users\lenovo\source\repos\LocalFunction csharp\ExpressionBodiedMember\obj\Debug\ExpressionBodiedMember.exe
+C:\Users\lenovo\source\repos\LocalFunction csharp\ExpressionBodiedMember\obj\Debug\ExpressionBodiedMember.pdb
